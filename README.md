@@ -1,6 +1,9 @@
 **FORESTARMY**
 *JOIN TELEGRAM(https://t.me/forestarmy)*
+
 *JOIN YOUTUBE(https://youtube.com/forestarmy)*
+
+_**HOLD AND COPY ONE BY ONE**_
 
 **FA** ```git clone https://github.com/YTforestarmy/dawnFA.git```
 
